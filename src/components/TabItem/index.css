@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.normal-button {
+  color: #7b8794;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.underline-tab {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+}

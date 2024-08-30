@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.main-container {
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.search-icon {
+  position: relative;
+  height: 20px;
+  width: 20px;
+}
+
+.search-container {
+  position: relative;
+}
+
+.input {
+  position: relative;
+  padding-right: 40px;
+  left: 25px;
+  height: 40px;
+  padding-left: 10px;
+  outline: none;
+}
+.tabs-list {
+  list-style-type: none;
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.apps-list {
+  display: flex;
+  width: 600px;
+  flex-wrap: wrap;
+  align-items: center;
+}
